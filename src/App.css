@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+.login-icon {
+  background: none;
+  border: none;
+  width: 70px;
+  height: 70px;
+  margin: 10px 20px;
+  cursor: pointer;
+}
+.login-icon img{
+  width: 100%;
+}
+.user-info img{
+  width: 10%;
+}
+.login-icon #sign-out img{
+  width: 10%;
+  margin-left: 300px;
+}
